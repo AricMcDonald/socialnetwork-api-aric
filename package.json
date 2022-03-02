@@ -1,0 +1,24 @@
+{
+  "name": "socialnetwork-api-aric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AricMcDonald/socialnetwork-api-aric.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AricMcDonald/socialnetwork-api-aric/issues"
+  },
+  "homepage": "https://github.com/AricMcDonald/socialnetwork-api-aric#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.1"
+  }
+}
